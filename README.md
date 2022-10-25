@@ -30,7 +30,7 @@
 
 I am a Python Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m learn Python language.
 
 - :seedling: Exploring Technical Content Writing.
 
